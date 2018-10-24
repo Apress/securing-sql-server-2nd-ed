@@ -1,0 +1,3 @@
+CREATE SERVER AUDIT SPECIFICATION [ServerAuditSpecification-CarterSecureSafe]
+FOR SERVER AUDIT [Audit-CarterSecureSafe]
+ADD (SERVER_ROLE_MEMBER_CHANGE_GROUP) ;

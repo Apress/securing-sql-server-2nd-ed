@@ -1,0 +1,1 @@
+ADD SIGNATURE TO dbo.MyProc   BY CERTIFICATE CodeSigning ;

@@ -1,0 +1,7 @@
+USE master
+GO
+
+CREATE LOGIN [cartersecuresafe\Pete] 
+FROM WINDOWS 
+WITH DEFAULT_DATABASE=master, DEFAULT_LANGUAGE=British ;
+GO

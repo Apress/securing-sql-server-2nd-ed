@@ -1,0 +1,1 @@
+auditpol /set /subcategory:"application generated" /success:enable /failure:enable  

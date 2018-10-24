@@ -1,0 +1,1 @@
+EXEC sp_table_privileges @Table_name = '%' ;

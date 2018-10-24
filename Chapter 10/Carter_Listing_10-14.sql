@@ -1,0 +1,1 @@
+'  AND 1 = default_domain()--

@@ -1,0 +1,5 @@
+USE master
+GO  
+
+CREATE MASTER KEY ENCRYPTION BY PASSWORD = ‘Pa$$w0rd’ ;  
+GO  

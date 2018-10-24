@@ -1,0 +1,1 @@
+SELECT * FROM sys.fn_get_audit_file('c:\audit\*',NULL,NULL) ;

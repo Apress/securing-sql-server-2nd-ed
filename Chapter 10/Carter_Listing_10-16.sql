@@ -1,0 +1,1 @@
+' AND 1 = (SELECT TOP 1 name FROM sys.tables ORDER BY NEWID())--
